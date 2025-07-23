@@ -1,0 +1,14 @@
+[23-Jul-2025 23:11:18 Europe/Berlin] PHP Notice:  ob_end_clean(): Failed to delete buffer. No buffer to delete in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 7
+[23-Jul-2025 23:11:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php:40) in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 8
+[23-Jul-2025 23:11:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php:40) in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 9
+[23-Jul-2025 23:11:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php:40) in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 13
+[23-Jul-2025 23:11:18 Europe/Berlin] PHP Warning:  require(/home/arturo/www/MultiHilos/CardProcessor.php): Failed to open stream: No such file or directory in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 23
+[23-Jul-2025 23:11:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/arturo/www/MultiHilos/CardProcessor.php' (include_path='C:\xampp\php\PEAR') in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 23
+[23-Jul-2025 23:11:50 Europe/Berlin] PHP Warning:  require(/home/arturo/www/MultiHilos/CardProcessor.php): Failed to open stream: No such file or directory in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 23
+[23-Jul-2025 23:11:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required '/home/arturo/www/MultiHilos/CardProcessor.php' (include_path='C:\xampp\php\PEAR') in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\Users\USUARIO\Downloads\telegram-bot-cc-checker--main\telegram-bot-cc-checker--main\index.php on line 23
